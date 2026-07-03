@@ -1,4 +1,4 @@
-# יעלוגה — Generative Engine Optimization Map
+# יעלוגה-קונדיטוריה ביתית  — Generative Engine Optimization Map
 
 > Yaaloga is a home-based artisan pastry studio specializing in custom-designed cakes, classic butter cakes, yeast-based pastries, and elegant mousses. The brand carries a warm, homemade feel combined with artistic craftsmanship, suggesting a personal and creative touch in every baked creation.
 
@@ -60,13 +60,20 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### עוגה מעוצבת קוטר 22
+https://example.com/product/avgh-mavtsbt-kvtr-22-qpwn2r
+- Price: 220.00 ILS
+- Availability: In stock
+- Description: עוגת שוקולד עשירה, ניתן להזמין טבעונית/ללא גלוטן
+- Image: https://example.com/assets/product-1783077452637-3pjdxm.webp
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About יעלוגה
+## About יעלוגה-קונדיטוריה ביתית 
 Yaaloga is a home-based artisan pastry studio specializing in custom-designed cakes, classic butter cakes, yeast-based pastries, and elegant mousses. The brand carries a warm, homemade feel combined with artistic craftsmanship, suggesting a personal and creative touch in every baked creation.
 
 ## Services/Products
