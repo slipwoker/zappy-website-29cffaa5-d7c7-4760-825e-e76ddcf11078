@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://example.com
+https://yaeluga-home-confectionery.zappy5.app
 מחפשים קונדיטוריה ליד הבית? יעלוגה מביאה לכם עוגות מעוצבות, מאפי שמרים ומוסים אלגנטיים באפייה ביתית עם נשמה. בואו לטעום יצירה מתוקה שמרגשת כל שולחן.
 
 ### שירותים
-https://example.com/services
+https://yaeluga-home-confectionery.zappy5.app/services
 עוגות חמאה קלאסיות, מאפי שמרים מפנקים ומוסים מעוצבים – גלו את השירותים של יעלוגה והזמינו את הקינוח המושלם לאירוע שלכם. כל ביס הוא חוויה של טעם ואהבה.
 
 ### אודות
-https://example.com/about
+https://yaeluga-home-confectionery.zappy5.app/about
 הכירו את יעלוגה – סטודיו ביתי לאפייה אומנותית שבו כל עוגה נולדת מתשוקה, יצירתיות והמון אהבה. קראו על הדרך שלנו להפוך חומרי גלם פשוטים ליצירות מופת מתוקות.
 
 ### גלריה
-https://example.com/gallery
+https://yaeluga-home-confectionery.zappy5.app/gallery
 דפדפו בגלריה של יעלוגה וגלו עוגות בעיצוב אישי, קינוחי מוס מרהיבים ומאפים זהובים שמספרים סיפור מתוק. כל תמונה כאן היא הזמנה להתאהב מחדש בקונדיטוריה.
 
 ### צור קשר
-https://example.com/contact
+https://yaeluga-home-confectionery.zappy5.app/contact
 רוצים להזמין עוגה מיוחדת או סתם להגיד שלום? צרו קשר עם יעלוגה עוד היום ותנו לנו להפוך את האירוע שלכם לבלתי נשכח עם קינוח שיעשה לכם חיוך גדול.
 
 ### Products
-https://example.com/products
+https://yaeluga-home-confectionery.zappy5.app/products
 המוצרים שלנו - יעלוגה
 
 ### Product Detail
-https://example.com/product/:slug
+https://yaeluga-home-confectionery.zappy5.app/product/:slug
 פרטי המוצר - יעלוגה
 
 ### Category
-https://example.com/category/:slug
+https://yaeluga-home-confectionery.zappy5.app/category/:slug
 מוצרים - יעלוגה
 
 ### תודה - יעלוגה
-https://example.com/thank-you
+https://yaeluga-home-confectionery.zappy5.app/thank-you
 יעלוגה - תודה - יעלוגה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yaeluga-home-confectionery.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yaeluga-home-confectionery.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yaeluga-home-confectionery.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -63,11 +63,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### עוגה מעוצבת קוטר 22
-https://example.com/product/avgh-mavtsbt-kvtr-22-qpwn2r
+https://yaeluga-home-confectionery.zappy5.app/product/avgh-mavtsbt-kvtr-22-qpwn2r
 - Price: 220.00 ILS
 - Availability: In stock
 - Description: עוגת שוקולד עשירה, ניתן להזמין טבעונית/ללא גלוטן
-- Image: https://example.com/assets/product-1783077452637-3pjdxm.webp
+- Image: https://yaeluga-home-confectionery.zappy5.app/assets/product-1783077452637-3pjdxm.webp
 
 ---
 
@@ -94,8 +94,8 @@ Bakery & Pastry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://yaeluga-home-confectionery.zappy5.app/sitemap.xml
+- Robots: https://yaeluga-home-confectionery.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yaeluga-home-confectionery.zappy5.app/llms-full.txt
+- Products (JSON): https://yaeluga-home-confectionery.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yaeluga-home-confectionery.zappy5.app/product-feed.xml

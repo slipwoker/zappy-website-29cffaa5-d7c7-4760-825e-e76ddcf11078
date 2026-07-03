@@ -2,18 +2,18 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>יעלוגה-קונדיטוריה ביתית </title>
-    <link>https://example.com</link>
+    <link>https://yaeluga-home-confectionery.zappy5.app</link>
     <description>Product feed for יעלוגה-קונדיטוריה ביתית </description>
-    <lastBuildDate>Fri, 03 Jul 2026 11:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:44:36 GMT</lastBuildDate>
     <item>
       <g:id>454ea972-9a39-4059-bad8-1790a1c2f042</g:id>
       <g:title>עוגה מעוצבת קוטר 22</g:title>
       <g:description>עוגת שוקולד עשירה, ניתן להזמין טבעונית/ללא גלוטן</g:description>
-      <g:link>https://example.com/product/avgh-mavtsbt-kvtr-22-qpwn2r</g:link>
-      <g:image_link>https://example.com/assets/product-1783077452637-3pjdxm.webp</g:image_link>
-      <g:additional_image_link>https://example.com/assets/product-1783077460192-7js85s.webp</g:additional_image_link>
-      <g:additional_image_link>https://example.com/assets/product-1783077467736-vqpxz.webp</g:additional_image_link>
-      <g:additional_image_link>https://example.com/assets/product-1783077479641-m1nly.webp</g:additional_image_link>
+      <g:link>https://yaeluga-home-confectionery.zappy5.app/product/avgh-mavtsbt-kvtr-22-qpwn2r</g:link>
+      <g:image_link>https://yaeluga-home-confectionery.zappy5.app/assets/product-1783077452637-3pjdxm.webp</g:image_link>
+      <g:additional_image_link>https://yaeluga-home-confectionery.zappy5.app/assets/product-1783077460192-7js85s.webp</g:additional_image_link>
+      <g:additional_image_link>https://yaeluga-home-confectionery.zappy5.app/assets/product-1783077467736-vqpxz.webp</g:additional_image_link>
+      <g:additional_image_link>https://yaeluga-home-confectionery.zappy5.app/assets/product-1783077479641-m1nly.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>220.00 ILS</g:price>
       <g:condition>new</g:condition>
