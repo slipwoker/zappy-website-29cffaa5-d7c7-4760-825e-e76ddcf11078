@@ -1,0 +1,94 @@
+# יעלוגה — Generative Engine Optimization Map
+
+> Yaaloga is a home-based artisan pastry studio specializing in custom-designed cakes, classic butter cakes, yeast-based pastries, and elegant mousses. The brand carries a warm, homemade feel combined with artistic craftsmanship, suggesting a personal and creative touch in every baked creation.
+
+---
+
+## Pages
+
+### בית
+https://-29cffaa5.zappy5.app
+מחפשים קונדיטוריה ליד הבית? יעלוגה מביאה לכם עוגות מעוצבות, מאפי שמרים ומוסים אלגנטיים באפייה ביתית עם נשמה. בואו לטעום יצירה מתוקה שמרגשת כל שולחן.
+
+### שירותים
+https://-29cffaa5.zappy5.app/services
+עוגות חמאה קלאסיות, מאפי שמרים מפנקים ומוסים מעוצבים – גלו את השירותים של יעלוגה והזמינו את הקינוח המושלם לאירוע שלכם. כל ביס הוא חוויה של טעם ואהבה.
+
+### אודות
+https://-29cffaa5.zappy5.app/about
+הכירו את יעלוגה – סטודיו ביתי לאפייה אומנותית שבו כל עוגה נולדת מתשוקה, יצירתיות והמון אהבה. קראו על הדרך שלנו להפוך חומרי גלם פשוטים ליצירות מופת מתוקות.
+
+### גלריה
+https://-29cffaa5.zappy5.app/gallery
+דפדפו בגלריה של יעלוגה וגלו עוגות בעיצוב אישי, קינוחי מוס מרהיבים ומאפים זהובים שמספרים סיפור מתוק. כל תמונה כאן היא הזמנה להתאהב מחדש בקונדיטוריה.
+
+### צור קשר
+https://-29cffaa5.zappy5.app/contact
+רוצים להזמין עוגה מיוחדת או סתם להגיד שלום? צרו קשר עם יעלוגה עוד היום ותנו לנו להפוך את האירוע שלכם לבלתי נשכח עם קינוח שיעשה לכם חיוך גדול.
+
+### Products
+https://-29cffaa5.zappy5.app/products
+המוצרים שלנו - יעלוגה
+
+### Product Detail
+https://-29cffaa5.zappy5.app/product/:slug
+פרטי המוצר - יעלוגה
+
+### Category
+https://-29cffaa5.zappy5.app/category/:slug
+מוצרים - יעלוגה
+
+### תודה - יעלוגה
+https://-29cffaa5.zappy5.app/thank-you
+יעלוגה - תודה - יעלוגה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-29cffaa5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-29cffaa5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-29cffaa5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יעלוגה
+Yaaloga is a home-based artisan pastry studio specializing in custom-designed cakes, classic butter cakes, yeast-based pastries, and elegant mousses. The brand carries a warm, homemade feel combined with artistic craftsmanship, suggesting a personal and creative touch in every baked creation.
+
+## Services/Products
+- עוגות מעוצבות
+- עוגות בחושות
+- עוגות שמרים
+- מוסים
+
+## Target Audience
+- חובבי מאפים ביתיים
+- משפחות מקומיות
+- מתכנני אירועים
+
+## Industry
+Bakery & Pastry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-29cffaa5.zappy5.app/sitemap.xml
+- Robots: https://-29cffaa5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-29cffaa5.zappy5.app/llms-full.txt
+- Products (JSON): https://-29cffaa5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-29cffaa5.zappy5.app/product-feed.xml
